@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Go:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83a1911e-f678-4f36-b229-c3e8b3f90312" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Go_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Go.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/五子棋课程设计报告.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/img/头像.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/img/头像.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/img/背景图片.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/img/背景图片.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/BgMusic/Music1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/BgMusic/Music1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/BgMusic/Music2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/BgMusic/Music2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/BgMusic/Music3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/BgMusic/Music3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/Game/SinglePlayerGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/Game/SinglePlayerGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/Game/TwoPlayersGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/Game/TwoPlayersGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/Piece/BlackChess.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/Piece/BlackChess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/Piece/SelectedBlackChess.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/Piece/SelectedBlackChess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/Piece/SelectedWhiteChess.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/Piece/SelectedWhiteChess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/Piece/WhiteChess.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/Piece/WhiteChess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/UI/ControlPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/UI/ControlPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/UI/Game1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/UI/Game1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/UI/Game2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/UI/Game2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/UI/Game3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/UI/Game3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/UI/StartUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gobang/设计模式五子棋/src/UI/StartUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobang/设计模式五子棋/设计模式五子棋.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Gobang" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BC7Cz8wUtvJrUdjLmhvEr3IivL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="工件" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="Go" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="83a1911e-f678-4f36-b229-c3e8b3f90312" name="变更" comment="" />
+      <created>1656398093139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656398093139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
