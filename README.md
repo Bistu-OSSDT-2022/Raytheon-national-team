@@ -4,5 +4,5 @@
 ## 程序下载  
 请直接于...下载  
 ## 特别鸣谢  
-https://github.com/wupgig/GoBang-IDEA
+https://github.com/wupgig/GoBang-IDEA  
 https://github.com/WGowi/Gobang
